@@ -11,9 +11,10 @@ SDG 3 - Good Health & Well-Being
 ## Team Members
 1. Amirul Arief Fadzliniza (Group Leader + Product Owner)
 2. Yerrabolu Samuel (Scrum Master)
-3. Sadia Muhammad Khalid Amin (Main Developer)
-4. Sadia Khatun (Developer - UAT)
-5. Mubinur Ridoy (Developer - Tester)
+3. Muhammad Khalid Amin (Main Developer)
+4. Hashir Ahmad Sajjad (Developer - )
+5. Sadia Khatun (Developer - UAT)
+6. Mubinur Ridoy (Developer - Tester)
 
 
 ## Project Description
