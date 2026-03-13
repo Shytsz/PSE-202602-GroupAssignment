@@ -84,6 +84,9 @@ Acceptance Criteria :
     - Tomorrow's schedule preview link
  
 ## Sprint 1 Summary
-Total Screens Created :
+Total Screens Created : 27
 
-User Flow Coverage :
+* Completed patient's workflow. From registration to appointment viewing, an end-to-end patient flow was successfully created.
+* Administrator control.
+* Doctor foundation.
+* All Acceptance Criteria has been met.
