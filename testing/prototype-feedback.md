@@ -1,5 +1,8 @@
-Prototype Link : https://www.figma.com/proto/Zh9qf4U6NZjLjJRUvDgB4K/PSE?node-id=36-462&p=f&t=cwrerEOlVEhrCJSl-1&scaling=min-zoom&content-scaling=fixed&page-id=35%3A699&starting-point-node-id=36%3A462&show-proto-sidebar=1
+Prototype Link :
+https://www.figma.com/proto/Zh9qf4U6NZjLjJRUvDgB4K/PSE?node-id=36-462&p=f&t=cwrerEOlVEhrCJSl-1&scaling=min-zoom&content-scaling=fixed&page-id=35%3A699&starting-point-node-id=36%3A462&show-proto-sidebar=1
 
+Survey Link :
+https://docs.google.com/forms/d/e/1FAIpQLSf2gYl06X61JHLek303hfMXDdGmu9b1IikDqr4j-XYFf4OOwg/viewform?usp=header
 
 To assess the completeness of the prototype functionality (Patient and Administrator), we created a Google Form survey. The MyCare prototype survey received responses from 12 participants. Most of them were students (74.9%) and between the age of 18 and 24 (83.3%). The majority of participants schedule medical visits twice a year (58.3%), are tech-savvy (58.3%), and have made many online appointments scheduling. 75% of the 12 participants completed the appointment booking process with ease, while 25% required some effort.
 
